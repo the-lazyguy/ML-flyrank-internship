@@ -10,3 +10,4 @@ https://colab.research.google.com/github/the-lazyguy/ML-flyrank-internship/blob/
 https://colab.research.google.com/github/the-lazyguy/ML-flyrank-internship/blob/main/work/notebooks/w06_validation_audit.ipynb?flush_cache=true
 https://colab.research.google.com/github/the-lazyguy/ML-flyrank-internship/blob/main/work/notebooks/w07_action_playbook.ipynb?flush_cache=true
 https://colab.research.google.com/github/the-lazyguy/ML-flyrank-internship/blob/main/work/notebooks/capstone.ipynb?flush_cache=true
+https://colab.research.google.com/github/the-lazyguy/ML-flyrank-internship/blob/main/work/notebooks/w03_data_contract.ipynb?flush_cache=true#scrollTo=DAo7duCcRP2a
